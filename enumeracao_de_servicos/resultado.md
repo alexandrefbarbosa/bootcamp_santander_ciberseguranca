@@ -2,7 +2,7 @@
 
 Esta é a minha solução para o segundo desafio de programação proposto pelo Bootcamp de Segurança Cibernética - Dio IO e Santander.
 
-<h2>Objetivo</h2>
+<h2>Descrição</h2>
 Desenvolva um sistema que simule a enumeração de serviços em um servidor, dado um conjunto de portas e serviços associados. Você deve receber uma lista de números de portas e, para cada porta, retornar o serviço associado. Se a porta não estiver no dicionário, retorna "Desconhecido".
 
 <h2>Estruturação</h2>
