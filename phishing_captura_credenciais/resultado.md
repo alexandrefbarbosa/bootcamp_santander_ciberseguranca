@@ -6,7 +6,7 @@ Esta é a minha solução para o terceiro desafio de programação proposto pelo
 
 Crie um Phishing que recrie a página de login do Facebook e capture as credenciais de acesso do usuário.
 
-<h2>Configuração no Kali Linux</h2>
+<h2>Configurações no Kali Linux</h2>
 
 + Acesso root: sudo su
 + Iniciando o setoolkit: setoolkit
