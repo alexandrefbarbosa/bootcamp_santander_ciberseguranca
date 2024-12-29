@@ -20,10 +20,10 @@ Você foi encarregado de criar um sistema simples que verifica a integridade de 
 
   A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
-  <table text-align: center>
+  <table >
     <tr>
-      <td ><b>Entrada</b></td>
-      <td ><b>Saída</b></td>
+      <th style="text-align: center;"><b>Entrada</b></th>
+      <th style="text-align: center;"><b>Saída</b></th>
     </tr>
 
     <tr>
@@ -42,3 +42,25 @@ Você foi encarregado de criar um sistema simples que verifica a integridade de 
     </tr>
 
   </table>
+
+  <h2><b>Código em Python</b></h2>
+
+  Segue o script desenvolvido como resposta, escrito em linguagem Python.
+
+```def verificar_hashes(lista_hashes):
+     for hash_comparacao in lista_hashes:
+         hash_calculado, hash_esperado = hash_comparacao.split(",")
+     
+         hash_calculado = hash_calculado.strip()
+         hash_esperado = hash_esperado.strip()
+     
+         if hash_calculado == hash_esperado:
+             print("Correto")
+         else:
+             print("Inválido")
+
+      hashes_usuario = input().strip()
+
+      lista_hashes = hashes_usuario.split(";")
+
+      verificar_hashes(lista_hashes)
