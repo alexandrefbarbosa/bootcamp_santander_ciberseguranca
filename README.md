@@ -9,7 +9,7 @@ Este repositório reúne os scripts que desenvolvi como solução para os exerc�
   comparando o hash fornecido pelo usuário com o hash real do arquivo. Seu
   objetivo é veificar se o hash calculado é igual ao hash esperado.
 
- + <b><h3>Enumeração de Serviços</h3></b>
+ + <b><h3>[Enumeração de Serviços](enumeracao_de_servicos/resultado.md)</h3></b>
 
     Desenvolva um sistema que simule a enumeração de serviços em um servidor, dado um conjunto de portas e serviços associados.
    Você deve receber uma lista de números de portas e, para cada porta, retornar o serviço associado. Se a porta não estiver
