@@ -18,3 +18,9 @@ Este repositório reúne os scripts que desenvolvi como solução para os exerc�
   + <b><h3>[Phishing - Captura de Credenciais](phishing_captura_credenciais/resultado.md)</h3></b>
 
     Crie um Phishing que recrie a página de login do Facebook e capture as credenciais de acesso do usuário.
+
+   + <b><h3>[Busca por Vulnerabilidades]()</h3></b>
+
+     Crie uma solução para analisar uma lista de e-mails recebidos, verificando padrões comuns de phishing nas mensagens. Se um e-mail contiver palavras suspeitas como "ganhe", "prêmio", "urgente", "desconto", "click" e "promoção" ele deve ser classificado como "Phishing" e "Seguro".
+
+    
