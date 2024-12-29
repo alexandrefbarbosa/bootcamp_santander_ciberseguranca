@@ -2,7 +2,7 @@
 
 Esta é a minha solução para o desafio inicial de programação proposto pelo Bootcamp de Segurança Cibernética -Dio IO e Santander.
 
-<h2>Objetivo</h2>
+<h2>Descrição</h2>
 
 Você foi encarregado de criar um sistema simples que verifica a integridade de arquivos, comparando o hash fornecido pelo usuário com o hash real do arquivo. Na função verificar_hashes que irá receber uma lista de hashes e compará-los com os valores esperados para cada arquivo. Seu objetivo é verificar se o hash calculado é igual ao hash esperado.
 
