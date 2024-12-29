@@ -42,3 +42,29 @@ Crie uma solução para analisar uma lista de e-mails recebidos, verificando pad
 
   <h2><b>Código em Python</b></h2>
 Segue o script desenvolvido como resposta, escrito em linguagem Python.
+
+```python
+# Função para verificar se o corpo do e-mail contém palavras suspeitas de phishing
+def verificar_phishing(mensagem):
+
+ # Lista de palavras que indicam possíveis e-mails de phishing
+ palavras_suspeitas = ["ganhe", "prêmio", "urgente", "desconto", "click", "promoção"]
+ 
+ # Conversão a mensagem para minúsculas para garantir a comparação correta
+ mensagem = mensagem.lower()
+ 
+ # Verifica se alguma palavra suspeita está presente no corpo do e-mail
+ for palavra in palavras_suspeitas:
+     if palavra in mensagem:
+         return "Phishing"
+ 
+ return "Seguro"
+
+# Leitura da entrada do usuário
+email_usuario = input().strip()
+
+# Chama a função para verificar o e-mail
+resultado = verificar_phishing(email_usuario)
+
+# Imprime o resultado
+print(f"Classificação: {resultado}")
