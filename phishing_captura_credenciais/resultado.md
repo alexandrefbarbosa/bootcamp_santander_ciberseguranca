@@ -20,7 +20,7 @@ Crie um Phishing que recrie a página de login do Facebook e capture as credenci
 <h2>Resultado:</h2>
 
 <div align="center">
-<img width="407" alt="desafio_dio_captura_facebook" src="https://github.com/user-attachments/assets/8aaf1204-55e1-4e16-a0a3-afa9ab712c1f" />
+<img width="407" alt="desafio_dio_captura_facebook" src="https://github.com/user-attachments/assets/8aaf1204-55e1-4e16-a0a3-afa9ab712c1f"/>
  </div><br>
 
  <div align="center">
