@@ -44,23 +44,22 @@ Você foi encarregado de criar um sistema simples que verifica a integridade de 
   </table>
 
   <h2><b>Código em Python</b></h2>
+Segue o script desenvolvido como resposta, escrito em linguagem Python.
 
-  Segue o script desenvolvido como resposta, escrito em linguagem Python.
-
-```def verificar_hashes(lista_hashes):
-     for hash_comparacao in lista_hashes:
-         hash_calculado, hash_esperado = hash_comparacao.split(",")
+     def verificar_hashes(lista_hashes):
+        for hash_comparacao in lista_hashes:
+            hash_calculado, hash_esperado = hash_comparacao.split(",")
      
-         hash_calculado = hash_calculado.strip()
-         hash_esperado = hash_esperado.strip()
+            hash_calculado = hash_calculado.strip()
+            hash_esperado = hash_esperado.strip()
      
-         if hash_calculado == hash_esperado:
+            if hash_calculado == hash_esperado:
              print("Correto")
-         else:
+            else:
              print("Inválido")
 
       hashes_usuario = input().strip()
 
       lista_hashes = hashes_usuario.split(";")
 
-      verificar_hashes(lista_hashes)
+      verificar_hashes(lista_hashes) 
