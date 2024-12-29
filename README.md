@@ -3,7 +3,7 @@ Este repositório reúne os scripts que desenvolvi como solução para os exerc�
 
 <h2>Lista de Desafios</h2>
 
-+ <b><h3>Verificação de Integridade de Arquivos</h3></b> 
++ <b><h3>[Verificação de Integridade de Arquivos](verifica_integridade/resultado.md)</h3></b> 
 
    Desenvolva um sistema simples que verifica a integridade de arquivos,
   comparando o hash fornecido pelo usuário com o hash real do arquivo. Seu
