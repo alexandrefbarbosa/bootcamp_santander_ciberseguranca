@@ -9,17 +9,17 @@ A detecção de tentativas de invasão é essencial para a segurança do sistema
 
 + <b>Entrada</b>
 
-  Uma lista de registros de log no formato id_usuario:status, onde:
+  Uma lista de registros de log no formato <b>id_usuario:status</b>, onde:
 
-    + id_usuario é uma string que representa o identificador do usuário (exemplo: "user1").
+    + <b>id_usuario</b> é uma string que representa o identificador do usuário (exemplo: <b>"user1"</b>).
 
-    + status pode ser uma das seguintes strings:
+    + <b>status</b> pode ser uma das seguintes strings:
       
-   &ndash; "sucesso" – indica que a tentativa de acesso foi bem-sucedida.
+   &ndash; <b>"sucesso"</b> – indica que a tentativa de acesso foi bem-sucedida.
  
-   &ndash; "falha" – indica que a tentativa de acesso falhou.
+   &ndash; <b>"falha"</b> – indica que a tentativa de acesso falhou.
 
-   A lista pode conter qualquer número de registros.
+   <b>A lista pode conter qualquer número de registros.</b>
   
 + <b>Saída</b>
 
@@ -27,6 +27,6 @@ A detecção de tentativas de invasão é essencial para a segurança do sistema
   
   + O <b>id_usuario</b> que teve mais de 3 tentativas consecutivas de falha.
     
-  + Se nenhum usuário tiver mais de 3 tentativas de falha consecutivas, o sistema deve retornar a mensagem "Nenhum invasor detectado".
+  + Se nenhum usuário tiver mais de 3 tentativas de falha consecutivas, o sistema deve retornar a mensagem <b>"Nenhum invasor detectado"</b>.
   
   
