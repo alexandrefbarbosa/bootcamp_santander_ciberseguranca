@@ -28,5 +28,8 @@ Este repositório reúne os scripts que desenvolvi como solução para os exerc�
       Você é responsável por implementar um sistema de monitoramento de segurança para um sistema de acesso. Seu objetivo é analisar registros de log de tentativas de acesso para detectar possíveis invasões. Cada registro contém um identificador de usuário e um status que indica se a tentativa de acesso foi bem-sucedida ou falhou.
 A detecção de tentativas de invasão é essencial para a segurança do sistema, e a análise de logs é uma prática comum para identificar comportamentos suspeitos. O sistema deve emitir um alerta se detectar mais de 3 tentativas consecutivas de falha para o mesmo usuário.
       
+   + <b><h3>[Ransomware para criptografia de arquivos de texto em Python](ransomware_criptografia/resultado.md)</h3></b>
+
+      Nesta etapa vamos implementar um Ransomware para criptografar e descriptografar arquivos utilizando a linguagem Python.
 
     
