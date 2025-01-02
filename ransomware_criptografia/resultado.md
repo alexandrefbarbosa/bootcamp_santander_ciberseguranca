@@ -36,6 +36,6 @@ Arquivos do projeto:</p>
 
 <h2>Processo de Restauração</h2>
   <div align="center">
-<img width="407" alt="restauração" src="restaurado](https://github.com/user-attachments/assets/bce3b176-6b7d-42f2-af77-fb39fbe460e8"/>
+<img width="407" alt="restauração" src="restaurado](https://github.com/user-attachments/assets/bce3b176-6b7d-42f2-af77-fb39fbe460e8/>
  </div><br>
 
