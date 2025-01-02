@@ -3,8 +3,9 @@
 Esta é a minha solução para o sexto desafio de programação proposto pelo Bootcamp de Segurança Cibernética - Dio IO e Santander.
 
 <h2>Descrição</h2>
-<p></p>Nesta etapa vamos implementar um Ransomware para criptografar arquivos utilizando a linguagem Python.
-Arquivos do projeto:</p>
+<p></p>Nesta etapa vamos implementar um Ransomware para criptografar e descriptografar arquivos utilizando a linguagem Python.
+
+<h3>Arquivos do projeto:</h3>
 
 -encripter.py: código que irá criptografar os arquivos;
 
