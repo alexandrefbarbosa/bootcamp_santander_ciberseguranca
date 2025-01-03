@@ -7,9 +7,9 @@ Esta é a minha solução para o sexto desafio de programação proposto pelo Bo
 
 <h3>Arquivos do projeto:</h3>
 
--encripter.py: código que irá criptografar os arquivos;
+- encripter.py: código que irá criptografar os arquivos;
 
--decripter.py: código que irá descriptografar um arquivo proviamente criptografado.
+- decripter.py: código que irá descriptografar um arquivo proviamente criptografado.
 
 <h2>Ferramentas</h2>
 
