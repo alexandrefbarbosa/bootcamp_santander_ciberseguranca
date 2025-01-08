@@ -1,5 +1,5 @@
 <h1>Bootcamp Cibersegurança - Santander</h1>
-Este repositório reúne os scripts que desenvolvi como solução para os exercícios apresentados ao longo do Bootcamp de Cibersegurança, fruto da colaboração entre a Santander Open Academy e a Dio. Vale destacar que as soluções aqui disponibilizadas foram elaboradas para serem executadas exclusivamente na plataforma de testes fornecida durante o Bootcamp. Para adaptações destinadas a outros ambientes, será necessário realizar ajustes no código
+Este repositório reúne os scripts que desenvolvi como solução para os exercícios apresentados ao longo do Bootcamp de Cibersegurança, fruto da colaboração entre a Santander Open Academy e a Dio. Vale destacar que as soluções aqui disponibilizadas foram elaboradas para serem executadas exclusivamente na plataforma de testes fornecida durante o Bootcamp. Para adaptações destinadas a outros ambientes, será necessário realizar ajustes no código.
 
 <h2>Lista de Desafios</h2>
 
